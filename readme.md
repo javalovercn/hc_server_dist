@@ -1,5 +1,3 @@
-these files are HomeCenter server distributed for Windows, Mac, Linux, Unixt and Android.
-
 to install clients for mobile, please click https://github.com/javalovercn/client
 
 ---
