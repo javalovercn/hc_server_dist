@@ -1,4 +1,5 @@
 these files are HomeCenter server distributed for Windows, Mac, Linux, Unixt and Android.
+
 to install clients for mobile, please click https://github.com/javalovercn/client
 
 ---
@@ -22,6 +23,7 @@ to install clients for mobile, please click https://github.com/javalovercn/clien
 ---
 
 ![](http://homecenter.mobi/images/android_22.png)
+![](https://github.com/javalovercn/hc_server_dist/raw/master/qr_images/qr_android.png)
 1. Android 4.0 or later, JRE 7 is NOT required
 
 ---
