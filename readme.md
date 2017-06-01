@@ -1,5 +1,7 @@
 to install clients for mobile, please click https://github.com/javalovercn/client
 
+be interested with full server source codes, please click https://github.com/javalovercn/homecenter
+
 ---
 
 ![](http://homecenter.mobi/images/window_22.png)
