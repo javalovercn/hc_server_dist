@@ -1,8 +1,3 @@
-to install clients for mobile, please click https://github.com/javalovercn/client
-
-be interested with full server source codes, please click https://github.com/javalovercn/homecenter
-
----
 
 ![](http://homecenter.mobi/images/window_22.png)
 1. install JRE/JDK 7 or newer is required, https://www.java.com/
@@ -30,5 +25,11 @@ or
 
 ![](https://github.com/javalovercn/hc_server_dist/raw/master/qr_images/qr_android.png)
 1. Android 4.0 or later, JRE 7 is NOT required
+
+---
+
+for mobile clients, please click https://github.com/javalovercn/client
+
+for source codes of server, please click https://github.com/javalovercn/homecenter
 
 ---
