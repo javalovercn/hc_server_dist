@@ -1,3 +1,7 @@
+official download : http://homecenter.mobi/en/pc/downloads.htm
+
+***
+
 ![](http://homecenter.mobi/images/window_22.png)
 1. install JRE/JDK 7 or newer is required, https://www.java.com/
 2. unzip **[HC_Server_For_Win.zip](https://github.com/javalovercn/hc_server_dist/raw/master/HC_Server_For_Win.zip)**, double click "HomeCenter.bat"
